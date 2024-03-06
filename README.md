@@ -1,4 +1,8 @@
 # Bank_cust_Churn-Prediction
+
+## Objectives:
+- Perfom EDA
+- Biuld a model
 ### Introduction:
 - Customer churn is a major problem faced by banks across the globe, with significant impacts on revenue and growth. This analysis focuses on examining customer churn for a major retail bank that operates in Germany, France, and Spain. The objective is to identify the key drivers of churn in order to develop effective customer retention strategies.
 - The dataset used for this analysis includes demographic and banking indicators for a sample of 10 000 individuals across the three countries. The demographic variables capture age and gender. The banking variables provide information on channel of acquisition, credit score, account balance, number of banking products used, and tenure with the bank. Additionally, estimated salary for each customer is also provided based on algorithms used internally by the bank.
